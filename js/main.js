@@ -58,7 +58,7 @@ function listProducts(productList) {
 function showProduct(productId) {
     let product = null;
 
-    if (productId > 0 && productId < productList.length) {
+    if (productId > -1 && productId < productList.length) {
         product = productList[parseInt(productId)];
     } else {
         // Default values
