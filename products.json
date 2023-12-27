@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Skor",
+        "description": "Skor för alla typer av människor med fötter.",
+        "price": "1000 kr",
+        "image": "https://picsum.photos/500/300"
+    },
+    {
+        "title": "Byxor",
+        "description": "Byxor för alla typer av människor med två ben.",
+        "price": "299 kr",
+        "image": "https://picsum.photos/500/300"
+    },
+    {
+        "title": "Hatt",
+        "description": "Hatt för alla typer av människor med ett eller flera huvuden.",
+        "price": "152 kr",
+        "image": "https://picsum.photos/500/300"
+    },
+    {
+        "title": "Skjorta",
+        "description": "Skjorta för alla typer av människor med två armar på vardera sida kroppen.",
+        "price": "1000 kr",
+        "image": "https://picsum.photos/500/300"
+    },
+    {
+        "title": "Strumpor",
+        "description": "Strumpor för alla typer av människor med fötter och byxor.",
+        "price": "99 kr",
+        "image": "https://picsum.photos/500/300"
+    }
+]
